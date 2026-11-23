@@ -9,7 +9,7 @@ Over the past summer, I interned at the Lawrence Livermore National Laboratory (
 ![My Image](Slide4.jpeg)
 ![My Image](Slide5.jpeg)
 
-Through this experience, I learned how to share my research project towards a general audience that is engaging and comprehensive. As I explore the three main graph embeddings methods and reach towards the end of my internship, I submitted my summer research abstract for the annual SACNAS Conference. I was able to present a poster of the research and share it with a diverse audience of scientists.
+Through this experience, I learned how to share my research project towards a general audience that is engaging and comprehensive. As I explore the three main graph embeddings methods and reach towards the end of my internship, I submitted my summer research abstract for the annual SACNAS Conference. I was able to present my research project and meet scientists from different backgrounds.
 
 ![My Image](SACNAS_Conference_Poster.png)
 
